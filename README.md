@@ -1,2 +1,0 @@
-# ProjektNimbus
-Gatav_AbschlussProjekt
